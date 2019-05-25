@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Super-Messiah/Super-Messiah.github.io.git
+	branch = master

@@ -4,11 +4,11 @@
 
 Powered by [Academic theme](https://github.com/gcushen/hugo-academic) for [Hugo](https://gohugo.io/).
 
-website: https://msu.edu/~tiandong
+website: https://super-messiah.github.io/
 
 ~~~
-$ git clone https://github.com/seisman/academic-homepage
-$ cd academic-homepage
+$ git clone https://github.com/Super-Messiah/Homepage
+$ cd Homepage
 $ git submodule update --init --remote
 $ hugo server
 ~~~
