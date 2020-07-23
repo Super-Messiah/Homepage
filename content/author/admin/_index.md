@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Visiting Student Researcher"
+role = "Assistant Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "https://www.stanford.edu/" } ]
+organizations = [ { name = "China University of Geosciences (Wuhan)", url = "http://www.cug.edu.cn/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I'm a Ph.D candidate in Geophysics."
+bio = "I'm a Ph.D in Geophysics."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -81,7 +81,7 @@ year = 2016
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/Super-Messiah"
+  link = "https://github.com/yufengwa"
 
 [[social]]
   icon = "envelope"
